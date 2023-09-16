@@ -1,6 +1,6 @@
 {
   "name": "oopsiedoodles-resolver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Oopsiedoodles resolver is a delightful npm package that transforms those mundane error messages into a hilarious collection of chuckles and giggles.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -36,5 +36,7 @@
   "dependencies": {
     "typescript": "^5.1.6"
   },
-  "keywords": ["error messages"]
+  "keywords": [
+    "error messages"
+  ]
 }
